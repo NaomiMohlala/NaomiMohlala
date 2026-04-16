@@ -26,7 +26,7 @@
     High monthly charges increased churn risk.
     Long-term contracts improved customer retention.
 
-    🛠 Skills
+  🛠 Skills
     
       Microsoft Excel
       Data Analysis
