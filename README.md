@@ -37,3 +37,5 @@
   
 - 📫 How to reach me: Email: naomimohlala2@gmail.com
 
+More Projects coming soon (SQL & Power BI)
+
